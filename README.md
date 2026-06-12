@@ -1,9 +1,4 @@
-██████╗  █████╗ ██╗  ██╗ ██████╗  ██████╗ ███████╗
-██╔══██╗██╔══██╗╚██╗██╔╝██╔═══██╗██╔═══██╗██╔════╝
-██████╔╝███████║ ╚███╔╝ ██║   ██║██║   ██║███████╗
-██╔══██╗██╔══██║ ██╔██╗ ██║   ██║██║   ██║╚════██║
-██║  ██║██║  ██║██╔╝ ██╗╚██████╔╝╚██████╔╝███████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝
+<img width="442" height="143" alt="raxoos" src="https://github.com/user-attachments/assets/cf39b2f3-fecb-49b5-a1c7-ff465a54ce94" />
 
 # rmpc-config
 My personal rmpc configuration with a OneDark theme.
@@ -24,6 +19,7 @@ The files should be placed in your `~/.config/rmpc/` directory like this:
     ├── config.ron
     └── themes
         └── onedark.ron
+```
 
 *Based on the official rmpc configuration examples.*
 
